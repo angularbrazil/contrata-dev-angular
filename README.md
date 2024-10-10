@@ -1,4 +1,4 @@
-Repositório focado em profissionais especializados em Angular
+Repositório focado em profissionais especializados em Angular. Vamos facilitar a vida de quem procura um Dev Angular.
 
 ## Qual o objetivo?
 
@@ -22,3 +22,5 @@ entre colchetes - e o seu nome completo, assim: `[São Paulo/SP] Maria Joaquina`
 - Ainda no campo de busca, você pode filtrar por algum rótulo da seguinte forma: escrevendo `label:CLT` para exibir apenas as pessoas que usaram o rótulo *CLT* ou escrevendo `-label:CLT` para retirar essas pessoas.
 - Por padrão, o campo de busca começa preenchido com `is:issue is:open`. Não se preocupe, separe por espaços o que seja buscar. (e.g `is:issue is:open São Paulo SP label:Remoto -label:CLT`).
 - É possível filtrar a lista de _issues_ pela barra de filtros da tabela, caso ache melhor.
+
+Baseado 
